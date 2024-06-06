@@ -1,0 +1,13 @@
+In this project we will be looking at a comprehensive  dataset that delves into the fascinating world of “Smartphone Retail Outlet Sales” which, provides us with a wealth of information on smartphone accessory sales 
+within a retail environment.
+
+The dataset provides information on product categories, quantities, pricing, and payment methods by capturing transactions throughout the course of a fiscal year.
+
+This project's main goal is to identify trends and patterns in the sales of smartphone accessories, and analyzing the correlations between dimensions.  Examine how pricing tactics, payment habits, and product popularity
+interact in a retail setting. 
+
+Before preprocessing, the dataset is displayed in the window on the left.
+
+https://www.kaggle.com/datasets/shubham2703/smartphone-retail-outlet-sales-data?resource=download
+
+The data includes 6421 rows and 10 columns, covering a period of four years, from 2018 to 2022.
