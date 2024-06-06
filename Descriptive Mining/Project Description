@@ -1,0 +1,10 @@
+Introduction:
+This presentation is on the analysis of crime data in the city of Cambridge from 2009 to 2016. In this study, we will explore a comprehensive dataset obtained from data.world/data-society/cambridge-crime-data-2009-2016. 
+This dataset consists of 56,014 rows and 7 columns, providing valuable information about crimes that occurred in Cambridge during the specified period. The dataset encompasses various aspects, including the type of crime, 
+neighborhood, and time of occurrence, among others. 
+
+Objective:
+The primary objective of this project is to conduct descriptive data mining on the crime dataset to develop a comprehensive understanding of the patterns within the data. Specifically, we aim to explore the relationships and
+patterns between crime types, neighborhoods, and crime occurrence times. By analyzing these patterns, we seek to gain insights into the occurrences of crime events in the city of Cambridge during the specified timeframe. 
+Understanding these patterns can provide valuable information for law enforcement agencies, city planners, and policymakers in implementing targeted strategies to prevent and address crime. Through our descriptive data 
+mining analysis, we hope to uncover meaningful correlations and trends that contribute to a deeper understanding of crime dynamics in Cambridge
