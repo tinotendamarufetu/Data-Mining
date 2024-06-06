@@ -1,0 +1,10 @@
+Introduction:
+This presentation is on the analysis of house sales data in King County, USA from 2014 to 2015. In this study, we will explore a comprehensive dataset obtained from
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data.
+This dataset consists of 21613 rows and 21 columns, providing valuable information about the prices of houses and the features they come with. The dataset encompasses various aspects, including the  price of the house, 
+bedrooms, bathrooms, square feet, and condition, among others. 
+
+Objective:
+The primary objective of this project is to leverage the potential of predictive data mining on a comprehensive house sales dataset. By employing cutting-edge techniques such as Linear Regression, Decision Tree, and 
+Naive Bayes, aiming to unlock the hidden patterns and correlations within the given and existing data. The ultimate goal is to develop robust and accurate models that can predict house prices with unprecedented precision.
+
