@@ -1,0 +1,21 @@
+**Water Quality Management within different Water Regions and Management Areas (WMAs) of New Jersey**
+
+This data relates to water quality management within different water regions and management areas (WMAs) of New Jersey, specifically focusing on per- and polyfluoroalkyl substances (PFAS), a group of human-made chemicals. These substances are of significant concern because they are persistent in the environment and human body, and some have been linked to adverse health effects.
+
+**Explaining Major Columns in the Data:**
+
+1. W. REGION (Water Region): the geographic areas in New Jersey into distinct water regions. For example, Atlantic Coast, Lower Delaware, Northeast, Northwest, and Raritan are major regions, each containing various Water Management Areas (WMAs).
+
+2. WMA (Water Management Area): column lists sub-regions or specific water management areas within each water region. Each WMA represents a specific area within the broader region that is managed for water quality, resources, and possibly pollution control. Examples include Barnegat Bay, Cape May, and the Lower Passaic and Saddle.
+
+3. PFAS Compounds: columns (PFOA, PFOS, PFNA, etc.) represent different types of PFAS chemicals that have been detected in the water samples from each WMA. e.g PFOA (Perfluorooctanoic acid): A common and widely studied PFAS chemical. PFOS (Perfluorooctane sulfonic acid): Another key PFAS that has been a major concern due to its environmental persistence. PFNA (Perfluorononanoic acid), PFBA (Perfluorobutanoic acid), PFBS (Perfluorobutanesulfonic acid), etc.: Other variants of PFAS chemicals. Each chemical may vary in its toxicity and environmental persistence. Each of these chemicals has varying concentrations in different WMAs, measured in parts per trillion (ppt). **6_2_FTS:** This appears to be an additional PFAS compound measurement, possibly a newer or less common PFAS chemical. The significance of "6_2_FTS" is not immediately clear, but it may refer to a specific substance or class of PFAS being monitored.
+
+4. Land Use: The classification of the area (e.g., Urban, Agriculture, Undeveloped).
+
+5. Well Depth: The depth of the well in meters.
+
+6. Water Resource Area (WR_NAME): Identifies the water resource or basin.
+
+The data shows concentrations of different PFAS chemicals in various Water Management Areas across different water regions of New Jersey. The varying concentrations across regions may indicate different levels of contamination. Areas near industrial sites, wastewater treatment plants, or military bases (which may use firefighting foam, non-stick cookware, water-repellent fabrics, food packaging) are often more heavily contaminated with PFAS.
+
+The data is important for monitoring the spread and intensity of PFAS contamination, which helps water quality management authorities make informed decisions about remediation efforts, water treatment, and regulatory actions.
