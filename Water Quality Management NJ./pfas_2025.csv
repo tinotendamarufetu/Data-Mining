@@ -1,0 +1,150 @@
+Municipali,County,Easting,Northing,Latitude,Longitude,Land_Use,Well_Depth,Well_No,WR_NAME,WMA_NAME,PFOA,PFOS,PFNA,PFBA,PFBS,PFHxA,PFHxS,PFHpA,PFPeA,PFDA,PFPeS,6:2 FTS
+Little Egg Harbor Twp,Ocean,531106.6,310763.1,39.68817453,-74.36070125,Undeveloped,17.3,57,Atlantic Coast,Barnegat Bay,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Lacey Twp,Ocean,579529.1,367903,39.84289682,-74.18875091,Urban,20,61,Atlantic Coast,Barnegat Bay,4.8,7,0.9,1.8,2,0.9,0.9,1.1,0.9,0.9,0.9,3.55
+Manchester Twp,Ocean,518034.4,418968.8,39.98356667,-74.40696667,Undeveloped,18,62,Atlantic Coast,Barnegat Bay,2.6,11.3,1,2,3.9,1.5,47.5,1,1,1,5.6,4
+Berkeley Twp,Ocean,564047.2,390215.9,39.90484055,-74.24236494,Undeveloped,8,60,Atlantic Coast,Barnegat Bay,14.5,3.2,1.4,5.7,1,1.9,1.4,2.9,4.3,1,1,4
+Toms River Twp,Ocean,562764.5,437592.6,40.03467778,-74.24751111,Urban,24,63,Atlantic Coast,Barnegat Bay,6.9,3.2,1,2.6,2.2,1.9,1.4,2.6,2.2,1,1,4
+Brick Twp,Ocean,593565.1,447969.4,40.06289391,-74.13764006,Urban,18.5,64,Atlantic Coast,Barnegat Bay,10.4,0.9,0.9,1.8,1.7,2.4,1.4,2.7,2.4,0.9,0.9,3.55
+Lakehurst Boro,Ocean,542665,430319.8,40.01469444,-74.31952778,Urban,25,66,Atlantic Coast,Barnegat Bay,13.3,20.1,1.3,4.8,3,11.4,7.3,4.4,6,0.9,0.9,3.55
+Jackson Twp,Ocean,510393,458283,40.09166667,-74.43472222,Undeveloped,18.9,65R,Atlantic Coast,Barnegat Bay,0.9,0.9,0.9,1.8,1,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Dennis Twp,Cape May,388161.6,132303,39.19594753,-74.86739161,Undeveloped,11,44,Atlantic Coast,Cape May,2,2,2,4,2,2,2,2,2,2,2,5.6
+Maurice River Twp,Cumberland,360475.382,145750.63,39.23261434,-74.96489639,Agriculture,15,38,Atlantic Coast,Cape May,8.5,6.5,3.9,2.2,1.85,2.3,1.85,2.4,2.8,1.85,1.85,7.2
+Pleasantville City,Atlantic,483263.6,203184.9,39.39122771,-74.53126476,Urban,23,49,Atlantic Coast,Great Egg Harbor,21,2.4,0.9,4.6,5,5.9,5.9,5.9,4.6,0.9,0.9,3.55
+Corbin City,Atlantic,421326.9,175246.9,39.31233737,-74.75377476,Undeveloped,13.5,45,Atlantic Coast,Great Egg Harbor,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Buena Vista,Atlantic,385843,276421,39.59166667,-74.87722222,Urban,38.5,52R,Atlantic Coast,Great Egg Harbor,20.1,11.6,1.05,6.1,26.3,18.5,6.9,4.9,16.7,1.05,1.2,4.15
+Pine Hill Boro,Camden,356735.252,344736.125,39.778875,-74.98175,Urban,19,18B,Atlantic Coast,Great Egg Harbor,10.4,5.9,1.6,6.7,5.1,5.2,1.4,4,4.3,1.05,1.05,4.15
+Monroe Twp,Camden,376273.9,301673.1,39.66091667,-74.89486111,Undeveloped,14,53,Atlantic Coast,Great Egg Harbor,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Upper Twp,Cape May,451494.5,158969.8,39.26983748,-74.64349201,Urban,25,46,Atlantic Coast,Great Egg Harbor,0.9,0.9,0.9,1.8,2.5,2.4,0.9,0.9,1.4,0.9,0.9,3.55
+Franklin Twp,Gloucester,367244.2,268942.3,39.57094444,-74.94308333,Agriculture,24,59,Atlantic Coast,Great Egg Harbor,17.6,1,1,6.8,16.8,6.8,4.2,7.4,7.4,1,1,4
+Franklin Twp,Gloucester,355990.948,261053.671,39.55039343,-74.98739429,Agriculture,13.5,35,Atlantic Coast,Great Egg Harbor,7.2,3.5,1.3,2.7,0.9,2.3,0.9,2.1,0.9,0.9,0.9,3.55
+Old Bridge Twp,Middlesex,554144,583712,40.43527778,-74.27722222,Undeveloped,49.66,103R-2,Atlantic Coast,Monmouth,9.7,0.9,0.9,5.8,0.9,4.6,0.9,1.8,11.7,0.9,0.9,3.55
+Wall Twp,Monmouth,617431.8,488089.7,40.17261381,-74.05124909,Urban,27.5,67,Atlantic Coast,Monmouth,8.4,0.9,0.9,5.7,2.7,3.2,2.2,3.2,9.3,0.9,0.9,3.55
+Middletown Twp,Monmouth,596583.7,572188.8,40.40344178,-74.12458621,Urban,23.83333333,70,Atlantic Coast,Monmouth,1.25,1.25,1.25,6.8,1.4,2,1.25,1.25,10.7,1.25,1.25,5
+Eatontown Boro,Monmouth,620216.4,531620.5,40.29233341,-74.03874985,Urban,38.5,71,Atlantic Coast,Monmouth,11.6,3.1,2,4.5,3.5,6.2,2.1,4.8,8.8,0.9,0.9,2.1
+Neptune Twp,Monmouth,611107.9,507707.8,40.22650139,-74.07375049,Urban,29.5,68,Atlantic Coast,Monmouth,0.9,0.9,0.9,1.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Egg Harbor City,Atlantic,452078.4,251919.1,39.5249782,-74.64196397,Urban,12.5,55,Atlantic Coast,Mullica,3.9,6.5,1,2.3,5,2.3,3,1.5,2.8,1,1,4
+Hammonton Town,Atlantic,413721.1,302409.7,39.66333333,-74.77852778,Agriculture,14,54,Atlantic Coast,Mullica,9.7,5.9,1.7,7.8,0.99,4.3,0.9,2.9,3.7,0.9,0.9,3.55
+Hammonton Town,Atlantic,427428.1,312700.6,39.69472222,-74.73972222,Undeveloped,23,51R,Atlantic Coast,Mullica,5.9,0.9,0.9,3.9,0.9,0.9,0.9,1.8,2.5,0.9,0.9,3.55
+Tabernacle Twp,Burlington,455192.3,344005.4,39.7784511,-74.63126671,Undeveloped,16,56,Atlantic Coast,Mullica,1,1,1,2,1,1,1,1,1,1,1,4
+Woodland Twp,Burlington,480082.6,343311.5,39.7778962,-74.5418193,Agriculture,10,58,Atlantic Coast,Mullica,6.6,2.1,3.5,6.8,1.15,2.7,1.15,3.1,2.9,1.3,1.15,4.55
+Bass River Twp,Burlington,517782.9,288914.1,39.62900736,-74.41098121,Undeveloped,13.83333333,50,Atlantic Coast,Mullica,1,1,1,2,1,1,1,1,1,1,1,4
+Washington Twp,Burlington,479214.9,305398.1,39.67178505,-74.54598645,Undeveloped,17.5,48,Atlantic Coast,Mullica,1,1,1,2,1,1,1,1,1,1,1,4
+Springfield Twp,Burlington,416634.8,437253.1,40.03400028,-74.76988392,Agriculture,12,6,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",7.7,1.5,1.3,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Springfield Twp,Burlington,428027,438074,40.03583333,-74.72888889,Agriculture,39,2R,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Chesterfield Twp,Burlington,442642.7,465269.6,40.11055556,-74.67694444,Agriculture,24,108R,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",0.95,0.95,0.95,0.9,0.95,0.95,0.95,0.95,0.9,0.95,0.95,7.2
+Mansfield Twp,Burlington,441456.2,459161.2,40.09261136,-74.68043645,Agriculture,24,4,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",1.6,1.1,2.1,4.8,1.2,2.9,2,1.5,2.6,2.1,2.1,4.35
+Hamilton Twp,Mercer,441881.8,490607.9,40.18027778,-74.67972222,Urban,72,121R,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",0.9,0.9,0.9,3.3,1.7,1.4,2.4,0.9,1.6,0.9,0.9,3.55
+Upper Freehold Twp,Monmouth,489129.55,485224.5,40.16556944,-74.51071944,Agriculture,63.6,1R,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Plumsted Twp,Monmouth,484228.1,457570.8,40.09039089,-74.5276536,Agriculture,24,5,Lower Delaware,"Assiscunk, Crosswicks, and Doctors",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Moorestown Twp,Burlington,378199.5,416738.3,39.97677907,-74.90711099,Agriculture,22.5,7,Lower Delaware,Lower Delaware,29.2,9,3.4,5.3,2.1,4.7,2,3.4,3.1,2,2,4
+Maple Shade Twp,Burlington,350380.2,414735.6,39.97066806,-75.00572566,Urban,49,10,Lower Delaware,Lower Delaware,17.1,32.4,7.8,5.2,8.8,7.8,5.4,4.6,8.6,1.7,0.9,3.55
+Bellmawr Boro,Camden,329934.8,375250.9,39.86205796,-75.07767273,Urban,13.625,17,Lower Delaware,Lower Delaware,8.5,8.3,2.6,8.1,2.7,10.5,1.7,4.7,16,0.85,0.85,3.45
+Audubon Park Boro,Camden,326003.06,389010,39.9,-75.09222222,Urban,67.5,14R,Lower Delaware,Lower Delaware,1.4,1.05,1.05,3.8,1.05,4.6,1.05,1.2,7,1.05,1.05,4.15
+Logan Twp,Gloucester,264572,358785,39.81555556,-75.31,Agriculture,36.6,20R,Lower Delaware,Lower Delaware,60.9,3.9,21.6,19,1.6,32.7,1.8,22.3,24.9,2,2,6.3
+Washington Twp,Gloucester,332702.945,326523.751,39.7285,-75.06683333,Urban,19,23,Lower Delaware,Lower Delaware,14.7,44.6,11,7.9,19.4,9.3,1.3,7,8.7,2.9,0.95,3.85
+Harrison Twp,Gloucester,303649.597,322682.253,39.71738889,-75.17011111,Agriculture,33,25,Lower Delaware,Lower Delaware,9.4,1.7,1.9,5.1,1.8,6,1.1,3.6,5.1,1,1,4
+Mantua Twp,Gloucester,299553.6,336104.8,39.75415556,-75.18496944,Agriculture,33,21R,Lower Delaware,Lower Delaware,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Washington Twp,Gloucester,336909.877,332593.367,39.74525,-75.05205556,Urban,19,19,Lower Delaware,Lower Delaware,4.5,16.5,3.5,6.1,4.7,4.8,1,2.7,5.3,2.5,1,4
+Upper Pittsgrove Twp,Salem,288475.399,297059.228,39.64672222,-75.22325,Agriculture,32,28,Lower Delaware,Lower Delaware,10.7,2.5,0.95,3.9,1.1,7.1,1.5,4.5,3.4,0.95,0.95,6
+Upper Deerfield Twp,Cumberland,293159.221,249490.228,39.51625,-75.20530556,Agriculture,38,36,Lower Delaware,"Maurice, Salem, and Cohansey",10.5,11.9,1.7,4.7,2,7.8,2,4,5.3,2,2,4
+Upper Deerfield Twp,Cumberland,292590.05,233432.664,39.4723372,-75.2068527,Agriculture,42,39,Lower Delaware,"Maurice, Salem, and Cohansey",13.5,1.8,1.8,6.8,1.8,9.3,1.8,5.8,4.9,1.8,1.8,3.55
+Millville City,Cumberland,315653.274,210555.037,39.4098372,-75.12407078,Agriculture,50,42,Lower Delaware,"Maurice, Salem, and Cohansey",0.9,0.9,0.9,3.4,0.9,1.4,0.9,0.9,1.9,0.9,0.9,3.55
+Millville City,Cumberland,326759.925,217528.256,39.42913889,-75.08547222,Undeveloped,26,27,Lower Delaware,"Maurice, Salem, and Cohansey",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Maurice River Twp,Cumberland,380087,190822,39.35666667,-74.89611111,Undeveloped,54.5,47R,Lower Delaware,"Maurice, Salem, and Cohansey",0.9,0.9,0.9,1.8,0.9,1.1,0.9,0.9,1.6,0.9,0.9,3.55
+Downe Twp,Cumberland,318059.2,176092.9,39.31527778,-75.11544444,Undeveloped,12,43,Lower Delaware,"Maurice, Salem, and Cohansey",1.05,1.05,1.05,4.1,1.05,1.05,1.05,1.05,1.05,1.05,1.05,4.15
+Vineland City,Cumberland,345008.355,239160.872,39.48886111,-75.02133333,Urban,69.5,40R,Lower Delaware,"Maurice, Salem, and Cohansey",6.5,1.4,0.95,0.9,3.2,6,3.8,1.5,0.9,0.95,0.95,3.85
+Clayton Boro,Gloucester,323351,305541,39.67083333,-75.09972222,Agriculture,40.9,24R,Lower Delaware,"Maurice, Salem, and Cohansey",7.7,7.1,1.5,4.8,5.7,7.1,12.1,4.4,6.3,1.8,3,3.55
+Carney's Point Twp,Salem,233798.6,311745.1,39.68566914,-75.41741603,Agriculture,19.5,22,Lower Delaware,"Maurice, Salem, and Cohansey",25,1.8,14.1,15.5,1,22.1,1.8,10.3,13.5,1.8,1.8,3.55
+Pilesgrove Twp,Salem,239958.702,307164.48,39.67344693,-75.39602627,Agriculture,17,26,Lower Delaware,"Maurice, Salem, and Cohansey",83.1,0.9,1.3,35.6,1.6,60.6,0.9,31.8,39.1,0.9,0.9,3.55
+Upper Pittsgrove Twp,Salem,293732.4,272109.85,39.57833333,-75.20388889,Agriculture,27,34R,Lower Delaware,"Maurice, Salem, and Cohansey",6.5,0.85,0.85,5.6,0.85,8.2,0.85,3.2,5.9,0.85,0.85,3.45
+Elmer Boro,Salem,303406.826,277143.345,39.59233333,-75.16975,Urban,15,30,Lower Delaware,"Maurice, Salem, and Cohansey",14.1,8.4,6.2,14,1.6,5.6,0.85,4.9,5.3,0.85,0.85,3.45
+Quinton Twp,Salem,230610.695,263664.553,39.55372426,-75.42769618,Agriculture,22.58333333,33,Lower Delaware,"Maurice, Salem, and Cohansey",15.9,3.7,3.3,7.5,1.3,9.9,1,7,7.8,0.95,0.95,7.2
+Lower Alloway Creek Twp,Salem,217918.1,236981.9,39.47997222,-75.4715,Agriculture,30,37R,Lower Delaware,"Maurice, Salem, and Cohansey",0.9,0.9,0.9,5.1,1.5,1.6,0.9,0.9,1.7,0.9,0.9,3.5
+Mannington Twp,Salem,246926.96,290391.208,39.62733586,-75.37019231,Agriculture,28.2,29,Lower Delaware,"Maurice, Salem, and Cohansey",1.05,1.05,1.05,9.3,1.1,9.2,1.05,1.7,9.2,1.05,1.05,4.15
+Mannington Twp,Salem,234018.862,281609.571,39.60289115,-75.41630604,Agriculture,25,31,Lower Delaware,"Maurice, Salem, and Cohansey",1.4,0.9,0.9,7.3,0.9,9.8,0.9,1.9,7,0.9,0.9,3.5
+Upper Pittsgrove Twp,Salem,294182.814,287166.03,39.61969444,-75.20272222,Agriculture,19,32,Lower Delaware,"Maurice, Salem, and Cohansey",10,1,1,8.2,1.2,13.2,1,6.2,5.7,1,1,4
+Mount Laurel Twp,Burlington,379722.4,413686.2,39.96844587,-74.90099955,Urban,19.5,11,Lower Delaware,Rancocas,38.7,8.9,5.3,20.3,7.5,13.3,2,11.4,11.5,2.3,2,4
+Medford Twp,Burlington,396514.7,396993.4,39.92277778,-74.84083333,Agriculture,29.5,13R,Lower Delaware,Rancocas,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Woodland Twp,Burlington,469370,386275,39.89386111,-74.58108333,Undeveloped,88.9,15R,Lower Delaware,Rancocas,1,1,1,2,1,1,1,1,1,1,1,4
+Pemberton Twp,Burlington,458988.8,393314.9,39.91344865,-74.61821163,Undeveloped,24,16,Lower Delaware,Rancocas,1.05,1.05,1.05,4.1,1.05,1.05,1.05,1.05,1.05,1.05,1.05,4.15
+Southampton Twp,Burlington,429841.6,404594.7,39.94400233,-74.72321528,Agriculture,23.5,12,Lower Delaware,Rancocas,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Hainesport Twp,Burlington,396406.1,421528,39.99122323,-74.84044204,Undeveloped,14,3,Lower Delaware,Rancocas,46.9,1.7,1.5,3.8,0.95,1.9,1.5,4.9,0.9,0.95,0.95,7.2
+Lumberton Twp,Burlington,411866.8,418524,39.98205671,-74.78488435,Urban,26,8,Lower Delaware,Rancocas,33.9,10.7,0.9,28,369,25.1,18.4,18.9,25,0.9,3,3.55
+Pemberton Twp,Burlington,492919.2,405206.4,39.94539397,-74.49737453,Agriculture,10,9,Lower Delaware,Rancocas,9.1,6.4,4.7,10.7,1.4,3.2,1.3,3.9,8.7,1.5,0.95,7.2
+Norwood Boro,Bergen,640860.598,784498.741,40.98583333,-73.96138889,Urban,18.75,150,Northeast,"Hackensack, Hudson, and Pascack",21,10.3,1.2,5,6.2,4.4,2.1,4.3,4.2,1,1,4
+Ridgefield Park Village,Bergen,624739.6581,733926.4797,40.84722222,-74.02055556,Urban,30.8,148R,Northeast,"Hackensack, Hudson, and Pascack",2.4,1.3,0.9,2,1.3,2.1,1.2,1.1,2.5,0.9,0.9,6.6
+Jersey City,Hudson,608017.28,690211.15,40.72753056,-74.08182778,Urban,33.5,143R,Northeast,"Hackensack, Hudson, and Pascack",115,17.3,2.5,14.3,12.9,11.9,9.5,14.4,14.7,0.9,1.4,3.55
+North Bergen Twp,Hudson,617882.13,708170.36,40.77666667,-74.04638889,Urban,0,147,Northeast,"Hackensack, Hudson, and Pascack",47.6,1,1,6.7,5,3.7,1.6,4.4,5,1,5,4
+Paramus Boro,Bergen,611220.622,763526.861,40.92861111,-74.06916667,Urban,38,149,Northeast,Lower Passaic and Saddle,45.1,9.2,1.5,7.8,12.9,6.8,6.7,7.1,5.7,0.95,0.95,7.2
+Saddle River Boro,Bergen,598793.773,803384.241,41.03833333,-74.11388889,Urban,36,146,Northeast,Lower Passaic and Saddle,18,11.7,1.7,5.8,5.5,3.4,1.9,4.6,3.7,0.95,0.95,7.2
+Nutley Twp,Essex,591372.9,721583.8,40.81377778,-74.14183333,Urban,35,144R,Northeast,Lower Passaic and Saddle,54,16.8,2.1,7.7,9,8.5,4,8.7,9.2,0.95,0.95,7.2
+Cedar Grove Twp,Essex,567994,739698,40.86380556,-74.22568333,Urban,50,141R-2,Northeast,Lower Passaic and Saddle,30.2,4.6,0.95,6.5,5.9,4.7,19.5,5.1,3.9,0.95,2.4,7.2
+Paterson City,Passaic,593381.7,756601.3,40.90972222,-74.13388889,Urban,22,145,Northeast,Lower Passaic and Saddle,30.8,13.6,3,7.3,3.6,7.6,1.7,6.5,9.7,0.9,0.9,3.55
+Wayne Twp,Passaic,569166.224,768415.156,40.94222222,-74.22166667,Urban,22,142,Northeast,Lower Passaic and Saddle,12.6,3.9,0.9,4.7,2.5,2.9,3,2.2,3.1,0.9,0.9,3.55
+Bloomingdale Boro,Passaic,534922.5,802929.5,41.03731934,-74.34542876,Undeveloped,29,81,Northeast,"Pompton, Pequannock, Wanaque, Ramapo",0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Wayne Twp,Passaic,553450.257,774996.747,40.96083333,-74.27833333,Urban,24,137,Northeast,"Pompton, Pequannock, Wanaque, Ramapo",11.2,0.9,0.9,3.3,2.7,1.7,2.2,2,2.4,0.9,0.9,3.55
+Morristown Town,Morris,500525.423,710662.198,40.78444444,-74.47027778,Urban,38,125,Northeast,"Upper Passaic, Whippany, and Rockaway",7.8,1.6,0.9,5,4.8,2.7,1.5,2.8,4.6,0.9,0.9,3.55
+Rockaway Twp,Morris,483469.3,747669.4,40.88593242,-74.53099036,Urban,26,131,Northeast,"Upper Passaic, Whippany, and Rockaway",27.2,26,1.9,6.8,7.2,8.8,2.3,6.5,10,0.9,0.9,3.55
+Jefferson Twp,Morris,463359.31,762552.674,40.92686111,-74.60402778,Undeveloped,55,83,Northeast,"Upper Passaic, Whippany, and Rockaway",4.9,1,1,2,1,1.7,1,3.5,1.5,1,1,4
+Parsipanny-Troy Hills Twp,Morris,523310.715,737390.632,40.85774167,-74.38725278,Urban,34.5,138R,Northeast,"Upper Passaic, Whippany, and Rockaway",43.8,25,7.2,26.5,1.2,85.8,4.1,57.1,120,0.95,0.95,3.7
+Parsipanny-Troy Hills Twp,Morris,522787.6,727178.4,40.82898862,-74.38959625,Undeveloped,20,79,Northeast,"Upper Passaic, Whippany, and Rockaway",0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Delaware Twp,Hunterdon,343104.1,574226.8,40.40871608,-75.03516984,Undeveloped,39,78,Northwest,Central Delaware,7.9,29,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+West Amwell Twp,Hunterdon,385550,574890,40.41111111,-74.88277778,Agriculture,135,91R,Northwest,Central Delaware,0.95,0.95,0.95,2.3,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Frenchtown Boro,Hunterdon,335293.987,620242.9117,40.53483333,-75.06425,Urban,81,118R-2,Northwest,Central Delaware,2.8,2.7,0.9,1.8,0.92,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Kingwood Twp,Hunterdon,350179.4,615765.3,40.52260306,-75.01044757,Agriculture,208,89,Northwest,Central Delaware,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Ewing Twp,Mercer,416628,521912,40.26583333,-74.77055556,Urban,13.1,74R,Northwest,Central Delaware,5.4,4.4,1,2.9,1.4,1.8,2,1.6,2.2,1,1,4
+Hopewell Twp,Mercer,394535.6,544748.6,40.32844022,-74.84988644,Agriculture,35,76,Northwest,Central Delaware,0.95,0.95,0.95,3.4,0.95,0.95,0.95,0.95,0.95,0.95,0.95,3.85
+Hopewell Twp,Mercer,390030,534610,40.30056667,-74.86605556,Undeveloped,75.5,80R,Northwest,Central Delaware,8.8,17.2,2.2,2.5,1,2.5,1,2.4,2.8,1,1,4
+Hopewell Twp,Mercer,380541.8,548374.3,40.33843996,-74.90044352,Agriculture,13.5,77,Northwest,Central Delaware,5.8,2.2,0.95,3.1,2.6,1.1,0.95,1.2,0.95,0.95,0.95,7.2
+Robbinsville Twp,Mercer,458490.393,515392.825,40.24833333,-74.6205,Agriculture,27.5,112,Northwest,Central Delaware,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Upper Freehold Twp,Monmouth,496900.4,500708.1,40.20816658,-74.48292983,Agriculture,18.5,72,Northwest,Central Delaware,7.1,1.7,0.95,2.2,0.96,2,5.9,1.5,1.8,0.95,0.95,7.2
+Upper Freehold Twp,Monmouth,482644.7,501310.9,40.20927732,-74.53404259,Agriculture,26,73,Northwest,Central Delaware,16,4.6,2.3,7.5,5.6,17,1.2,4,24.7,0.9,0.9,3.55
+Mount Olive Twp,Morris,407571.8,743059.1,40.87232107,-74.80572152,Undeveloped,57.5,84,Northwest,Upper Delaware,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Jefferson Twp,Morris,463920.982,779936.908,40.97416667,-74.60222222,Urban,15.5,115,Northwest,Upper Delaware,11.5,4.5,2.1,4.4,4,3.4,0.95,3.6,5,0.95,0.95,7.2
+Frankford Twp,Sussex,431973.3503,834331.8389,41.123675,-74.71835556,Agriculture,33.1,111R,Northwest,Upper Delaware,1.8,0.95,0.95,2.8,0.95,1.3,0.95,0.95,2.1,0.95,0.95,7.2
+Andover Twp,Sussex,426958.9,794559.8,41.01481977,-74.73655333,Undeveloped,38,86,Northwest,Upper Delaware,1.5,1,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Green Twp,Sussex,410104.3,768295.9,40.94204262,-74.79683281,Agriculture,13.83333333,90,Northwest,Upper Delaware,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Montague Twp,Sussex,443686.9,903841.6,41.31481667,-74.67627411,Undeveloped,50,100,Northwest,Upper Delaware,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Andover Twp,Sussex,418184,802405,41.03594444,-74.76804167,Agriculture,0,97R,Northwest,Upper Delaware,17.3,7.3,1.9,20.8,14.4,19.8,2.9,8.8,24.3,1.3,0.9,3.55
+Oxford Twp,Warren,362593.6,726581.5,40.8270432,-74.96767132,Agriculture,52,105,Northwest,Upper Delaware,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Hackettstown Town,Warren,400792.6,728676.2,40.83426581,-74.83016655,Urban,27,85R,Northwest,Upper Delaware,1.5,3.6,0.9,2.3,1.5,0.9,0.96,0.9,0.9,0.9,0.9,3.55
+Pohatcong Twp,Warren,317000.9,667461.4,40.66426645,-75.13100758,Agriculture,76,93,Northwest,Upper Delaware,14.9,14.1,27.1,5.8,2.2,3.1,2.9,3,3.8,5.7,0.9,3.55
+Franklin Twp,Warren,333779.5,688981.1,40.724,-75.07155556,Agriculture,134,94R,Northwest,Upper Delaware,3.7,1,1,3.5,1,1,1,1.2,2.3,1,1,4
+Hardwick Twp,Warren,378064,792880.8,41.00926394,-74.91267076,Agriculture,100,96,Northwest,Upper Delaware,0.95,0.95,0.95,5.7,0.95,0.95,0.95,1.3,4.9,0.95,0.95,7.2
+Pohatcong Twp,Warren,310456.5,652151.8,40.6220448,-75.15461891,Agriculture,12,82,Northwest,Upper Delaware,0.95,1.2,0.95,3.4,0.98,0.95,0.95,0.95,0.95,0.95,0.95,3.85
+Liberty Twp,Warren,358816.4,740427.5,40.8650984,-74.9821166,Undeveloped,37,88,Northwest,Upper Delaware,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+White Twp,Warren,332531,722941.37,40.81693056,-75.07663056,Agriculture,160,95R,Northwest,Upper Delaware,2.4,0.9,0.9,2.4,2.5,1.3,0.9,0.97,1.3,0.9,0.9,3.55
+Phillipsburg Town,Warren,301098.9,679347.2,40.69620991,-75.18878711,Urban,160,119,Northwest,Upper Delaware,9,9.9,2.2,19.6,2.4,22.9,9.1,18.5,37,0.9,1.6,10
+Hardwick Twp,Warren,331369.7,794812.9,41.01370679,-75.08239892,Undeveloped,36,92,Northwest,Upper Delaware,5.4,14.9,2.1,2.3,3.5,3.8,5.6,2.6,4,2.1,2.1,4.35
+Franklin Boro,Sussex,470044.489,826696.036,41.10288889,-74.58011111,Urban,27.5,130,Northwest,Wallkill,0.9,2.2,0.9,2.2,0.9,0.94,1.8,0.9,1.5,0.9,0.9,3.55
+Vernon Twp,Sussex,503060.7,872687.4,41.2300949,-74.46043484,Agriculture,13.5,99,Northwest,Wallkill,0.9,2.3,0.9,1.8,13.9,0.9,1.3,0.9,0.9,0.9,0.9,3.55
+Newark City,Essex,581198.544,689445.411,40.72563889,-74.17844444,Urban,36.5,140,Raritan,Arthur Kill,131,65.1,18.4,45.3,6.7,38,4.8,35.6,46,5,0.9,3.55
+Woodbridge Twp,Middlesex,541650.7,633720.7,40.57277778,-74.32222222,Urban,27,135,Raritan,Arthur Kill,12.1,2.9,1.4,5.1,1,1.2,1,1,1.1,1,1,4
+Edison Twp,Middlesex,536168.1,625332,40.55008333,-74.3415,Urban,36,134A,Raritan,Arthur Kill,36,1.6,0.9,7.7,1.9,4.6,2.9,5.1,4.5,0.9,0.9,3.55
+Hillside Twp,Union,567973.463,673717.952,40.68269167,-74.2265,Urban,24.7,139R,Raritan,Arthur Kill,147,16.7,1.5,23.8,3.1,12.8,6.1,19.2,10.7,0.9,1.1,3.55
+Cranford Twp,Union,540089.5,666349.2,40.6628801,-74.32709327,Urban,17,136,Raritan,Arthur Kill,70.8,1,1.6,15.5,4.6,9.9,2.5,12,11.6,1,1,4
+Union Twp,Union,549641.245,686269.121,40.7175,-74.29194444,Urban,16.9,132,Raritan,Arthur Kill,59.4,4.3,1.9,21.5,4.6,36.9,1.8,26.8,70.8,1,1,4
+New Brunswick City,Middlesex,510740.46,601704.37,40.48527778,-74.43305556,Urban,52,127R,Raritan,"Lower Raritan, South River, and Lawrence",23.2,8.2,1.3,7.1,1.3,5.7,3.3,4.8,7.6,0.9,0.9,3.55
+Jamesburg Boro,Middlesex,509235.0356,550995.7661,40.34621919,-74.43820668,Urban,37.83333333,126,Raritan,"Lower Raritan, South River, and Lawrence",24.3,6,1.2,16.4,3.6,12,7.9,13.3,14.7,0.9,1.1,3.55
+South Brunswick Twp,Middlesex,500742.1,566959.2,40.38982907,-74.46876339,Undeveloped,14.5,102,Raritan,"Lower Raritan, South River, and Lawrence",16.3,1.4,2.1,7.9,0.9,3.5,0.9,3.8,5,0.9,0.9,3.55
+Old Bridge Twp,Middlesex,533724.1,571019.6,40.40094444,-74.35063889,Urban,37,133,Raritan,"Lower Raritan, South River, and Lawrence",4.8,0.9,0.9,2.8,0.9,1.8,0.96,1.6,2,0.9,0.9,3.55
+Middlesex Boro,Middlesex,492999.1,636576.5,40.5809362,-74.49626534,Urban,27.5,128,Raritan,"Lower Raritan, South River, and Lawrence",11.9,6.5,0.95,0.9,3.6,5.1,18.1,3.2,0.9,0.95,3.4,7.2
+Freehold Twp,Monmouth,550553.5,519400,40.25872201,-74.29070217,Urban,22,69,Raritan,"Lower Raritan, South River, and Lawrence",6.6,0.9,0.9,1.8,0.95,2,0.9,1.7,1.4,0.9,0.9,3.55
+Manalapan Twp,Monmouth,545043.586,541988.06,40.32138889,-74.31055556,Agriculture,28,116,Raritan,"Lower Raritan, South River, and Lawrence",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Freehold Twp,Monmouth,545236.6,522698.9,40.26836111,-74.30972222,Agriculture,39.33333333,117,Raritan,"Lower Raritan, South River, and Lawrence",0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.7
+Manalapan Twp,Monmouth,541754.2,516882.3,40.25233309,-74.32598095,Agriculture,35.08333333,104,Raritan,"Lower Raritan, South River, and Lawrence",5.7,0.9,0.9,4.6,0.9,0.9,0.9,1,0.9,0.9,0.9,3.55
+Plainfield City,Union,506313.2,645250.9,40.60482499,-74.44848602,Urban,23,129,Raritan,"Lower Raritan, South River, and Lawrence",32,5.6,0.9,8.3,4.2,9.7,5.1,6.5,13.6,0.9,0.9,3.65
+Hopewell Twp,Mercer,419597.8,547552.7,40.3862171,-74.76016176,Urban,35,120,Raritan,Millstone,11.4,8.7,0.9,7.6,5.5,40,2.7,5.8,17.2,0.9,0.9,3.55
+Princeton,Mercer,445843.3,551515.2,40.34760703,-74.66626967,Urban,97.1,122,Raritan,Millstone,5.7,2.4,0.9,2.9,1.3,2,0.93,1.6,2.2,0.9,0.9,3.55
+West Windsor Twp,Mercer,458394.3,535162.7,40.30260816,-74.62099019,Urban,18,75,Raritan,Millstone,15.5,16.6,1.5,5.5,1,4,2.1,3.8,4.8,0.9,0.9,3.55
+Plainsboro Twp,Middlesex,468935.1,542534.7,40.32277778,-74.58305556,Agriculture,65,113R,Raritan,Millstone,2.4,0.9,0.9,2.7,0.9,1.8,0.9,1.4,1.9,0.9,0.9,3.55
+Montgomery Twp,Somerset,438581.7,577802.8,40.42010551,-74.69488201,Agriculture,40,109,Raritan,Millstone,18.5,2.5,0.95,6,18.1,4.4,2.1,4.5,3.7,0.95,0.95,3.85
+Franklin Twp,Somerset,472398.044,596954.479,40.47216667,-74.57094444,Agriculture,21,114,Raritan,Millstone,4.5,14.9,1.2,2.8,1.1,1.1,0.9,0.89,1.9,0.9,0.9,3.55
+East Amwell Twp,Hunterdon,395462.938,576998.57,40.41691667,-74.84713889,Agriculture,119,106,Raritan,North and South Branch Raritan,4.9,3.1,0.9,3.5,28.9,1.9,2.4,1.4,1.4,0.9,0.9,3.55
+Readington Twp,Hunterdon,414812.696,613251.194,40.51675,-74.77808333,Agriculture,41,107,Raritan,North and South Branch Raritan,1,1,1,2,1,1,1,1,1,1,1,4
+Clinton Twp,Hunterdon,390494.3,664018.8,40.65586111,-74.86630556,Agriculture,37,101,Raritan,North and South Branch Raritan,0.9,0.9,0.9,1.8,0.9,0.9,0.9,0.9,0.9,0.9,0.9,3.55
+Franklin Twp,Hunterdon,363329,630317.2,40.56319444,-74.96408333,Agriculture,60,98,Raritan,North and South Branch Raritan,0.95,0.95,0.95,3.4,0.95,0.95,0.95,0.95,0.95,0.95,0.95,3.85
+Mount Olive Twp,Morris,434514.9,726070.1,40.82676619,-74.70821791,Urban,25,124,Raritan,North and South Branch Raritan,7.2,3.7,1,3.7,1.1,1.1,1.2,1.3,2,1,1,4
+Chester Twp,Morris,443275.3,719275.1,40.80787752,-74.67599454,Undeveloped,30,87,Raritan,North and South Branch Raritan,0.95,0.95,0.95,1.85,0.95,0.95,0.95,0.95,0.95,0.95,0.95,7.2
+Hillsborough Twp,Somerset,435822.9752,619388.2333,40.53325,-74.70180556,Agriculture,36,110,Raritan,North and South Branch Raritan,3.8,2.9,0.9,2.1,1.5,0.9,1.2,0.9,0.9,0.9,0.9,5.3
+Bridgewater Twp,Somerset,446762.6,641234.7,40.59371372,-74.66182622,Urban,76.5,123,Raritan,North and South Branch Raritan,7.1,1.8,0.9,4.4,1.2,0.92,1.6,1.4,1,0.9,0.9,3.55
